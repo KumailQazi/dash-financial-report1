@@ -63,7 +63,7 @@ def create_layout(app):
                                                 go.Scatter(
                                                     x=df_graph["Date"],
                                                     y=df_graph["Calibre Index Fund"],
-                                                    line={"color": "#97151c"},
+                                                    line={"color": "#003399"},#"#97151c"
                                                     mode="lines",
                                                     name="Calibre Index Fund",
                                                 ),

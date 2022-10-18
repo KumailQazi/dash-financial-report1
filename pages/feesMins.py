@@ -57,7 +57,7 @@ def create_layout(app):
                                                 go.Bar(
                                                     x=["Category Average", "This fund"],
                                                     y=["2242", "329"],
-                                                    marker={"color": "#97151c"},
+                                                    marker={"color": "#003399"},#"#97151c"
                                                     name="A",
                                                 ),
                                                 go.Bar(

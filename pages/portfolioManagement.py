@@ -193,7 +193,7 @@ def create_layout(app):
                                                         "yref": "paper",
                                                     },
                                                     {
-                                                        "fillcolor": " #97151c",
+                                                        "fillcolor": " #003399",
                                                         "line": {
                                                             "color": "#ffffff",
                                                             "width": 0,

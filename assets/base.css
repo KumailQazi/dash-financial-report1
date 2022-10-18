@@ -71,17 +71,17 @@ p {
 }
 
 .gs-text-header {
-  background: #c41230 !important;
+  background: #cbee05 !important;
   -webkit-print-color-adjust: exact;
 }
 
 .gs-table-header {
-  background: #c41230 !important;
+  background: #3312c4 !important;
   -webkit-print-color-adjust: exact;
 }
 
 .gs-accent-header {
-  background: #65201f !important;
+  background: #2d09fa !important;
   -webkit-print-color-adjust: exact;
 }
 
