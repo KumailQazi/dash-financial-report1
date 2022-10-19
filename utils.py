@@ -16,7 +16,7 @@ def get_header(app):
                             src=app.get_asset_url("dash-financial-logo.png"),
                             className="logo",
                         ),
-                        href="https://plotly.com/dash",
+                        href="#",
                     ),
                     html.A(
                         html.Button(
@@ -24,11 +24,11 @@ def get_header(app):
                             id="learn-more-button",
                             style={"margin-left": "-10px"},
                         ),
-                        href="https://custech2.com",#"https://plotly.com/get-demo/",
+                        href="https://custech2.com",
                     ),
                     html.A(
                         html.Button("Source Code", id="learn-more-button"),
-                        href="https://google.com", #"https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-financial-report",
+                        href="https://google.com", 
                     ),
                 ],
                 className="row",
