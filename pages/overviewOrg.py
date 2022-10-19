@@ -91,7 +91,7 @@ def create_layout(app):
                                                         "11.11",
                                                     ],
                                                     marker={
-                                                        "color":"#8b0202", #"#8b0202",
+                                                        "color":"#003399", #"#8b0202",
                                                         "line": {
                                                             "color": "rgb(255, 255, 255)",
                                                             "width": 2,
@@ -114,7 +114,7 @@ def create_layout(app):
                                                         "8.50",
                                                     ],
                                                     marker={
-                                                        "color":"#dddddd", #"#dddddd",
+                                                        "color":"#00ffff", #"#dddddd",
                                                         "line": {
                                                             "color": "rgb(255, 255, 255)",
                                                             "width": 2,
@@ -211,7 +211,7 @@ def create_layout(app):
                                                         "20500",
                                                         "24000",
                                                     ],
-                                                    line={"color":"#8b0202"}, #"#97151c"
+                                                    line={"color":"#003399"}, #"#97151c"
                                                     mode="lines",
                                                     name="Calibre Index Fund Inv",
                                                 )
