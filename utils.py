@@ -24,11 +24,11 @@ def get_header(app):
                             id="learn-more-button",
                             style={"margin-left": "-10px"},
                         ),
-                        href="https://custech2.com",
+                        href="#",
                     ),
                     html.A(
                         html.Button("Source Code", id="learn-more-button"),
-                        href="https://google.com", 
+                        href="#", 
                     ),
                 ],
                 className="row",
